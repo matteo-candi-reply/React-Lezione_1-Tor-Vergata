@@ -1,13 +1,15 @@
+.app-container {
+    padding: 40px;
+    padding-top: 20px;
+}
+
 .tabs button.active {
     background: #3498db;
     color: white;
 }
 
 .header {
-    padding-left: 20px;
-}
-.header p {
-    padding-left: 15px;
+    margin-bottom: 50px;
 }
 
 /* Search Bar */
@@ -31,10 +33,7 @@
 /* Communication List */
 .communication-list {
     background: white;
-    padding: 20px;
-    padding-left: 30px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .communication-item {
@@ -61,10 +60,7 @@
 /* Timetable */
 .timetable-container {
     background: white;
-    padding: 20px;
-    padding-left: 30px;;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .day-selector {

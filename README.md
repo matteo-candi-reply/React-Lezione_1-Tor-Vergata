@@ -1,7 +1,20 @@
-# React-Lezioni-Tor-Vergata
+# React Lezioni Tor Vergata
 
-git clone repo from github  https://github.com/matteo-candi-reply/React-Lezioni-Tor-Vergata.git
+Progetto introduttivo pensato per familiarizzare con i concetti base di React, comprendere la struttura di un'applicazione e imparare a gestire componenti in modo semplice e chiaro.
 
-run dal terminale npm install
+## 📦 Installazione
 
-da terminale npm start per far partire il progetto
+Per installare tutte le dipendenze del progetto, esegui:
+
+```bash
+npm install
+```
+
+## ▶️ Inizializzazione
+
+Per far partire il progetto il locale, esegui:
+
+```bash
+npm start
+```
+L’applicazione sarà disponibile all’indirizzo: http://localhost:3000/
