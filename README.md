@@ -12,7 +12,7 @@ npm install
 
 ## ▶️ Inizializzazione
 
-Per far partire il progetto il locale, esegui:
+Per far partire il progetto in locale, esegui:
 
 ```bash
 npm start
